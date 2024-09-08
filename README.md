@@ -1,5 +1,5 @@
 # Zimare Lyrics 
-
+![Explore](https://zimarelyrics.vercel.app/)
 ## Where 
 - you can explore and get vast ethiopian mezmur lyrics
 - add your favorite mezmur lyrics
