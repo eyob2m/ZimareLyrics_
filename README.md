@@ -6,7 +6,7 @@
 - search based on title and even lyrics phrases
 
 -----------------------------------------
-Support us by submitting Lyrics
+Support by submitting Lyrics
 -----------------------------------------
 ![ListHomeList](src/assets/1.png)
 -----------------------------------------
