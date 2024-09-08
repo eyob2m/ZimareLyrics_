@@ -8,16 +8,16 @@
 -----------------------------------------
 Support us by submitting Lyrics
 -----------------------------------------
-![ListHomeList](src/assets/1.pngList)
+![ListHomeList](src/assets/1.png)
 -----------------------------------------
-![ListSearchList](src/assets/2.pngList)
+![ListSearchList](src/assets/2.png)
 -----------------------------------------
-![ListFeaturesList](src/assets/3.pngList)
+![ListFeaturesList](src/assets/3.png)
 -----------------------------------------
-![ListSubmitList](src/assets/4.pngList)
+![ListSubmitList](src/assets/4.png)
 -----------------------------------------
-![ListLyricsList](src/assets/5.pngList)
+![ListLyricsList](src/assets/5.png)
 -----------------------------------------
-![ListRelatedList](src/assets/6.pngList)
+![ListRelatedList](src/assets/6.png)
 -----------------------------------------
-![ListCategoryList](src/assets/7.pngList)
+![ListCategoryList](src/assets/7.png)
